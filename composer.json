@@ -1,0 +1,14 @@
+{
+    "name": "splashbox/task2",
+    "description": "splashbox task 2",
+    "authors": [
+        {
+            "name": "Evgeny Smekalin",
+            "email": "bakaExpire@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
